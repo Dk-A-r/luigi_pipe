@@ -1,0 +1,17 @@
+certifi
+charset-normalizer
+idna
+lockfile
+luigi
+numpy
+pandas
+pillow
+python-daemon
+python-dateutil
+pytz
+requests
+six
+tenacity
+tornado
+tzdata
+urllib3
